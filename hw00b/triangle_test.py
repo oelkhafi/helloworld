@@ -13,5 +13,3 @@ def classify_triangle(a,b,c):
             triangle_type = "scalene"
 
         return f"{triangle_type} right triangle" if is_right else triangle_type
-        
-
